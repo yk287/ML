@@ -6,4 +6,6 @@
 
 #Confusion Matrix for the test data
 
+Test Accuracy : 0.9126
+
 ![plot](confusionMnist.png)
