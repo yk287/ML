@@ -1,6 +1,6 @@
 # Fashion Attribute classification
 
-using this [data](https://purl.stanford.edu/tb980qz1002) from Stanford. Used 80/20 train test split
+using this [data](https://purl.stanford.edu/tb980qz1002) from Stanford. Used 80/20 train test split on 1856 images with 8 classes total.
 
 # Training Loss 
 
